@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+.big-panda-1, .big-panda-2, .big-panda-3{
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: grayscale(100%);
+  padding: 0;
+}
+
+.about_pandas, .thumbnail_pandas{
+  padding: 2em 0;
+  border-top: 20px solid #ff8a65;
+  border-bottom: 20px solid #ff8a65;
+}
+
+.thumbnail_panda_photo{
+  border: 15px solid white;
+  margin: 1em 0;
+  margin-left: 4em;
+}
+
+footer{
+  padding: 1em 0;
+}
